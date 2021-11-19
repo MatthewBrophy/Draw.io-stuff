@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T17:07:06.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.7.4" etag="Z0Sd9-xEFt_Q12GobFc5" type="github"><diagram id="iwQJmS8dWI0s1atztOAC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-19T17:56:10.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Gu5ZN-WE6iHd6tQakM38" version="15.7.4" type="github">
+  <diagram id="iwQJmS8dWI0s1atztOAC" name="Page-1">
+    <mxGraphModel dx="1426" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RwYBF3opVxzmDwAescbI-1" value="External&lt;br&gt;Partner" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
